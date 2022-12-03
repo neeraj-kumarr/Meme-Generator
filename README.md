@@ -26,7 +26,5 @@ Clone the project
 
 Go to the project directory
 
-```bash
-  cd SayabiDevs-Meme-Generator-App/
-  code .
-```
+# Website URL:
+https://neerajmandhan.github.io/Meme-Generator/
