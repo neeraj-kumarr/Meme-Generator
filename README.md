@@ -18,13 +18,5 @@ HTML5, CSS3, JavaScript
 ## Run Locally
  
 
-Clone the project
-
-```bash
-  git clone https://github.com/Tanish-04/SayabiDevs-Meme-Generator-App/
-```
-
-Go to the project directory
-
 # Website URL:
 https://neerajmandhan.github.io/Meme-Generator/
